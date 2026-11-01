@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ListenServer_Test/ListenServer_Test.vcxproj" Id="4b3c02c5-52e9-4ecb-a53e-e918dd3db1c3" />
+</Solution>
